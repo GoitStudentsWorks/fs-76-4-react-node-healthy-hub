@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-76-4-react-node-healthy-hub/static/css/main.8d24d7da.css",
-    "main.js": "/fs-76-4-react-node-healthy-hub/static/js/main.69b76dcd.js",
+    "main.js": "/fs-76-4-react-node-healthy-hub/static/js/main.a4cf77d3.js",
     "static/js/787.545f56ba.chunk.js": "/fs-76-4-react-node-healthy-hub/static/js/787.545f56ba.chunk.js",
     "static/media/breakfast.svg": "/fs-76-4-react-node-healthy-hub/static/media/breakfast.f1ff39ce6a18fb4d909722e48c944518.svg",
     "static/media/snack.svg": "/fs-76-4-react-node-healthy-hub/static/media/snack.ab1ecdcc3d6f3609639a77576cf8628d.svg",
@@ -47,11 +47,11 @@
     "static/media/arrow-down.svg": "/fs-76-4-react-node-healthy-hub/static/media/arrow-down.3a308cfe3e9d8b460168c1d365733906.svg",
     "static/media/userRadioCheked.svg": "/fs-76-4-react-node-healthy-hub/static/media/userRadioCheked.c972043ff8b81b0a8bc9.svg",
     "main.8d24d7da.css.map": "/fs-76-4-react-node-healthy-hub/static/css/main.8d24d7da.css.map",
-    "main.69b76dcd.js.map": "/fs-76-4-react-node-healthy-hub/static/js/main.69b76dcd.js.map",
+    "main.a4cf77d3.js.map": "/fs-76-4-react-node-healthy-hub/static/js/main.a4cf77d3.js.map",
     "787.545f56ba.chunk.js.map": "/fs-76-4-react-node-healthy-hub/static/js/787.545f56ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d24d7da.css",
-    "static/js/main.69b76dcd.js"
+    "static/js/main.a4cf77d3.js"
   ]
 }
