@@ -3,7 +3,7 @@
   "main": "dist/index.js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AndriiZlt.github.io/healthyHub-frontend/",
+  "homepage": "https://goitstudentsworks.github.io/fs-76-4-react-node-healthy-hub/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.5",
